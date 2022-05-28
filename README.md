@@ -1,6 +1,3 @@
-- 👋 Hi,  ..
-Web Developer..
-Black Window user..
 <h1 align="center">Hi 👋, I’m @ Muhammad Shaf Hameed</h1>
 <h3 align="center">from Institute of Management Sciences Peshawar. A passionate WEB developer from Pakistan</h3>
 <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
