@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m @ Muhammad Shaf Hameed</h1>
-<h3 align="center">from Institute of Management Sciences Peshawar. A passionate WEB developer from Pakistan</h3>
+<h3 align="center">from Institute of Management Sciences Peshawar. A passionate WEB and Desktop Software developer from Pakistan</h3>
 <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaf373&label=Profile%20views&color=0e75b6&style=flat" alt="shaf373" /> </p>
 
